@@ -8,7 +8,7 @@
 
 The objective is simple and straightforward: destroy your opponent's tank before they destroy yours. The match is divided into rounds, and the first player to win five rounds becomes champion. Between rounds, the tanks are repositioned and the battle begins again.
 
-The main mechanic revolves around a progressive charging firing system. By holding down the fire button, the player accumulates power in the projectile — releasing the button at the right moment is fundamental to hitting the target and causing maximum damage. The projectile explosion has a radius of effect, which means a shot near the opponent can still cause damage even without a direct hit.
+The main mechanic revolves around a progressive charging firing system. By holding down the fire button, the player accumulates power in the projectile, releasing the button at the right moment is fundamental to hitting the target and causing maximum damage. The projectile explosion has a radius of effect, which means a shot near the opponent can still cause damage even without a direct hit.
 
 ---
 
@@ -61,7 +61,7 @@ The game supports two players simultaneously on the same keyboard.
 
 1. Upon startup, wait for the round countdown.
 2. Move around the map and position yourself strategically.
-3. Hold down the fire button to accumulate power in your shot — an indicator on screen displays the charging level.
+3. Hold down the fire button to accumulate power in your shot an indicator on screen displays the charging level.
 4. Release the button to fire. The longer you hold, the greater the power and range of the projectile.
 5. The round ends when only one tank remains active.
 6. The first player to win 5 rounds wins the match.
