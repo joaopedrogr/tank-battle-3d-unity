@@ -16,7 +16,9 @@ The main mechanic revolves around a progressive charging firing system. By holdi
 
 ### Gameplay Video
 
-[![Gameplay of the Game](https://github.com/user-attachments/assets/5cd24d72-6fcd-451e-bac2-edb4b82352f8)]([https://github.com/user-attachments/assets/78520674-a691-4957-8ba2-f1bce2f2a723](https://github.com/user-attachments/assets/5cd24d72-6fcd-451e-bac2-edb4b82352f8))
+
+https://github.com/user-attachments/assets/96c8b7f0-ef41-4feb-89d1-e3748405233f
+
 
 ### Game Screenshots
 
